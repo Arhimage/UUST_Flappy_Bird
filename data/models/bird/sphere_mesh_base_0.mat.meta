@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>bb66b6ab9dc08ddccb676ff55cc12c0e28acb461</guid>
+	<type>material</type>
+	<hash>d96aee48</hash>
+	<runtimes>
+		<runtime id="bb66b6ab9dc08ddccb676ff55cc12c0e28acb461" name="sphere_mesh_base_0" link="0" type="5"/>
+	</runtimes>
+</asset>

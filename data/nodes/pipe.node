@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.18.0.1">
+	<node type="NodeDummy" id="1099351866" name="pipe">
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="518823841" name="pipe_lower">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://1ee9e88a3defca935ee2acf8cacf3741fd11ec47</mesh_name>
+			<surface name="cylinder" intersection="1" material="a6a00b0bb395542166c27055750f4c0ae4e672ce"/>
+			<body type="BodyDummy" id="1867859089" frozen="0">
+				<shape type="ShapeCylinder" id="827977225">
+					<radius>0.5</radius>
+					<height>20</height>
+				</shape>
+			</body>
+			<transform>3 1.430511e-06 0 0.0 -1.430511e-06 3 0 0.0 0 0 1 0.0 0 0 -12 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="355904200" name="pipe_highter">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://1ee9e88a3defca935ee2acf8cacf3741fd11ec47</mesh_name>
+			<surface name="cylinder" intersection="1" material="a6a00b0bb395542166c27055750f4c0ae4e672ce"/>
+			<body type="BodyDummy" id="255734972" frozen="0">
+				<shape type="ShapeCylinder" id="1069372626">
+					<radius>0.5</radius>
+					<height>20</height>
+				</shape>
+			</body>
+			<transform>3 1.4305058e-06 0 0.0 -1.4305058e-06 3 0 0.0 0 0 0.99999923 0.0 0 0 12 1.0</transform>
+		</node>
+	</node>
+</nodes>

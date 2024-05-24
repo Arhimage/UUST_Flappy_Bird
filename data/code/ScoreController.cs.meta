@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>1811e2614b5a483cbdf8c69b2fbdb7860f19416c</guid>
+	<type>component</type>
+	<hash>ff6374d7</hash>
+	<runtimes>
+		<runtime id="1811e2614b5a483cbdf8c69b2fbdb7860f19416c" name="ScoreController.cs" link="0"/>
+		<runtime id="4c88a357184f35e8c29caf81b095422433a910aa" name="ScoreController.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>22304b8fe0e80ec8ca05fe79f50c33743b5d5182</guid>
+	<type>node</type>
+	<hash>b0e4bd66</hash>
+	<runtimes>
+		<runtime id="22304b8fe0e80ec8ca05fe79f50c33743b5d5182" name="pipe.node" link="0" type="3"/>
+	</runtimes>
+</asset>

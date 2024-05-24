@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>bbedb9bec6c396f571ed560ccfd4f776fc2dbacb</guid>
+	<type>node</type>
+	<hash>71acbc0b</hash>
+	<runtimes>
+		<runtime id="bbedb9bec6c396f571ed560ccfd4f776fc2dbacb" name="bird.node" link="0" type="3"/>
+	</runtimes>
+</asset>

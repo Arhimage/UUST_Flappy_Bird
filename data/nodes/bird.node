@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.18.0.1">
+	<node type="ObjectMeshStatic" id="227621501" name="bird">
+		<streaming_mode_vram>0</streaming_mode_vram>
+		<streaming_mode_ram>0</streaming_mode_ram>
+		<mesh_name>guid://c8d7aae62a39383b8c2428f45316f654205e7b93</mesh_name>
+		<surface name="sphere" intersection="1" material="bb66b6ab9dc08ddccb676ff55cc12c0e28acb461"/>
+		<body type="BodyRigid" id="809454726" frozen="0">
+			<linear_scale>0 0 1</linear_scale>
+			<angular_scale>0 0 0</angular_scale>
+			<shape type="ShapeSphere" id="1820047419">
+				<radius>1</radius>
+			</shape>
+		</body>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+	</node>
+</nodes>

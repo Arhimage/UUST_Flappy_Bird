@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="PipeController" guid="39951cd4af9108227f7459b2ce24328796e80139" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="_pipeSample" type="file" title="Образец трубы" filter=".node"/>
+	<parameter name="_pipeSpeed" type="float" title="Скорость перемещения труб" min="0" max="100">2</parameter>
+	<parameter name="_horizontalOffset" type="float" title="Смещение спавна (горизонт)">20</parameter>
+	<parameter name="_verticalMinOffset" type="float" title="Высота спавна от">4.19999981</parameter>
+	<parameter name="_verticalMaxOffset" type="float" title="Высота спавна до">13.8000002</parameter>
+	<parameter name="_timeOffset" type="float" title="Дельта времени">8</parameter>
+</property>

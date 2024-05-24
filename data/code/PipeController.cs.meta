@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>4c525e2611a91856f2ab5a3446409581aa6173d3</guid>
+	<type>component</type>
+	<hash>b08823a3</hash>
+	<runtimes>
+		<runtime id="4c525e2611a91856f2ab5a3446409581aa6173d3" name="PipeController.cs" link="0"/>
+		<runtime id="39951cd4af9108227f7459b2ce24328796e80139" name="PipeController.prop" link="1" type="4"/>
+	</runtimes>
+</asset>
